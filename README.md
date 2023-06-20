@@ -3,6 +3,10 @@
 
 💻 My areas of expertise include front-end and back-end web development, and machine learning. I have hands-on experience with Python, JavaScript, and SQL.
 
+🌱 Currently, I'm focusing on honing my skills in web development like React.js, Node.js and Typescript.
+
+🚀 I love working on exciting projects and leveraging cutting-edge technologies to solve real-world problems.
+
 📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/rainbow-ou-596a43204/)!
 
 ⚡️ Fun fact: I enjoy playing video games, with my current favorite being "Fire Emblem Engage". Hiking and traveling are activities I cherish, and I also have a keen interest in painting, although I don't always have as much time for it as I would like.
