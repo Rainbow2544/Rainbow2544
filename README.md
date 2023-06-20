@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 👋 I'm Rainbow Ou!
+🎓 I'm a computer science graduate student at University of Auckland, passionate about exploring various aspects of software development.
+
+💻 My areas of expertise include front-end and back-end web development, and machine learning. I have hands-on experience with Python, JavaScript, and SQL.
+
+📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/rainbow-ou-596a43204/)!
+
+⚡️ Fun fact: I enjoy playing video games, with my current favorite being "Fire Emblem Engage". Hiking and traveling are activities I cherish, and I also have a keen interest in painting, although I don't always have as much time for it as I would like.
 
 <!--
 **Rainbow2544/Rainbow2544** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
