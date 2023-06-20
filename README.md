@@ -1,9 +1,9 @@
 ### Hi there 👋 I'm Rainbow Ou!
 🎓 I'm a computer science graduate student at University of Auckland, passionate about exploring various aspects of software development.
 
-💻 My areas of expertise include front-end and back-end web development, and machine learning. I have hands-on experience with Python, JavaScript, and SQL.
+📚 Currently, I'm studying at Mission Ready to enhance my technical skills and deepen my knowledge in the ever-evolving field of technology. I'm focusing on honing my skills in web development like React.js, Node.js and Typescript.
 
-🌱 Currently, I'm focusing on honing my skills in web development like React.js, Node.js and Typescript.
+💻 My areas of expertise include front-end and back-end web development, and machine learning. I have hands-on experience with Python, JavaScript, and SQL.
 
 🚀 I love working on exciting projects and leveraging cutting-edge technologies to solve real-world problems.
 
