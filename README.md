@@ -11,6 +11,8 @@
 
 ⚡️ Fun fact: I enjoy playing video games, with my current favorite being "Fire Emblem Engage". Hiking and traveling are activities I cherish, and I also have a keen interest in painting, although I don't always have as much time for it as I would like.
 
+Let's connect and collaborate on interesting projects! 😄
+
 <!--
 **Rainbow2544/Rainbow2544** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
